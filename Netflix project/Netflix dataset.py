@@ -48,7 +48,7 @@ axs[2].set_title("KDE plot of durations")
 
 plt.suptitle("Netflix / Movies Dataset Analysis", fontsize=16, fontweight="bold")
 plt.tight_layout(rect=[0, 0, 1, 0.95])
-plt.savefig("multiplots1.png")
+#plt.savefig("multiplots1.png")
 plt.show()
 
 
